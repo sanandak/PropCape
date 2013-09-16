@@ -1,0 +1,108 @@
+Cmp-Mod V01 Created by CvPCB (2011-05-25)-stable date = Mon 16 Sep 2013 09:47:56 AM EDT
+
+BeginCmp
+TimeStamp = /52352EB4;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /523487E7;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5235DF1F;
+Reference = P2;
+ValeurCmp = CONN_20;
+IdModule  = SIL-20;
+EndCmp
+
+BeginCmp
+TimeStamp = /5235E185;
+Reference = P3;
+ValeurCmp = CONN_20;
+IdModule  = SIL-20;
+EndCmp
+
+BeginCmp
+TimeStamp = /52360B53;
+Reference = P8;
+ValeurCmp = BBB_P8;
+IdModule  = PBBB*;
+EndCmp
+
+BeginCmp
+TimeStamp = /523511C7;
+Reference = P9;
+ValeurCmp = BBB_P9;
+IdModule  = PBBB*;
+EndCmp
+
+BeginCmp
+TimeStamp = /52348A52;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /523598DE;
+Reference = R2;
+ValeurCmp = 240;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /52370B54;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /52370B63;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5234816A;
+Reference = U1;
+ValeurCmp = P8X32A;
+IdModule  = DIP-40__600_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /52348320;
+Reference = U2;
+ValeurCmp = 24C512;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /52352D45;
+Reference = U3;
+ValeurCmp = LSM303;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /52359E0F;
+Reference = U4;
+ValeurCmp = TMP36;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /52348179;
+Reference = X1;
+ValeurCmp = CRYSTAL;
+IdModule  = HC-49V;
+EndCmp
+
+EndListe
