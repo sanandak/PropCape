@@ -1,0 +1,136 @@
+Cmp-Mod V01 Created by CvPCB (2011-05-25)-stable date = Mon 16 Sep 2013 09:53:23 PM EDT
+
+BeginCmp
+TimeStamp = /52377AA9;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52377A9F;
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52377A3E;
+Reference = C3;
+ValeurCmp = 0.22uF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52377A6F;
+Reference = C4;
+ValeurCmp = 4.7uF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52352EB4;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /523487E7;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /52376C6A;
+Reference = P2;
+ValeurCmp = BBB_P8;
+IdModule  = PIN_ARRAY_23X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /523511C7;
+Reference = P9;
+ValeurCmp = BBB_P9;
+IdModule  = PIN_ARRAY_23X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52348A52;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /523598DE;
+Reference = R2;
+ValeurCmp = 240;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52370B54;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52370B63;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52377BBB;
+Reference = R5;
+ValeurCmp = 10K;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52377BD3;
+Reference = R6;
+ValeurCmp = 10K;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5234816A;
+Reference = U1;
+ValeurCmp = P8X32A;
+IdModule  = TQFP44;
+EndCmp
+
+BeginCmp
+TimeStamp = /52348320;
+Reference = U2;
+ValeurCmp = 24C512;
+IdModule  = SSOP8;
+EndCmp
+
+BeginCmp
+TimeStamp = /523776F6;
+Reference = U3;
+ValeurCmp = LSM303DLHC;
+IdModule  = LGA 3x5x1 14L;
+EndCmp
+
+BeginCmp
+TimeStamp = /52359E0F;
+Reference = U4;
+ValeurCmp = TMP36;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /52348179;
+Reference = X1;
+ValeurCmp = CRYSTAL;
+IdModule  = HC-49V;
+EndCmp
+
+EndListe
