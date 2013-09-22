@@ -1,8 +1,8 @@
-# EESchema Netlist Version 1.1 created  Mon 16 Sep 2013 09:47:56 AM EDT
+# EESchema Netlist Version 1.1 created  Sun 22 Sep 2013 03:53:14 PM EDT
 (
  ( /52352EB4 LED-3MM D1 LED
   ( 1 /a3 )
-  ( 2 N-000016 )
+  ( 2 N-000017 )
  )
  ( /523487E7 SIL-4 P1 CONN_4
   ( 1 GND )
@@ -53,6 +53,14 @@
   ( 18 SPI_DI )
   ( 19 SPI_DO )
   ( 20 SPI_SCLK )
+ )
+ ( /523F49A3 PIN_ARRAY-6X1 P4 CONN_6
+  ( 1 /b5 )
+  ( 2 /b6 )
+  ( 3 /b7 )
+  ( 4 /b8 )
+  ( 5 GND )
+  ( 6 +3.3V )
  )
  ( /52360B53 PBBB* P8 BBB_P8
   ( 1 GND )
@@ -155,15 +163,15 @@
   ( 2 /b3 )
  )
  ( /523598DE R3-5 R2 240
-  ( 1 N-000016 )
+  ( 1 N-000017 )
   ( 2 GND )
  )
  ( /52370B54 R3-5 R3 R
   ( 1 +3.3V )
-  ( 2 N-000012 )
+  ( 2 N-000018 )
  )
  ( /52370B63 R3-5 R4 R
-  ( 1 N-000012 )
+  ( 1 N-000018 )
   ( 2 GND )
  )
  ( /5234816A DIP-40__600_ELL U1 P8X32A
@@ -229,7 +237,7 @@
   ( 8 +3.3V )
  )
  ( /52359E0F TO92 U4 TMP36
-  ( 1 N-000012 )
+  ( 1 N-000018 )
   ( 2 ? )
   ( 3 GND )
  )
