@@ -1,14 +1,14 @@
-Drill report for /home/parallels/Cape/Propcape.brd
-Created on Sun 15 Sep 2013 09:41:55 PM EDT
+Drill report for /home/parallels/Cape/PCB/Propcape.brd
+Created on Wed 02 Oct 2013 10:58:48 PM EDT
 Selected Drill Unit: Imperial (")
 
 Drill report for through holes :
-T1  0.025"  0.64mm  (33 holes)
+T1  0.025"  0.64mm  (39 holes)
 T2  0.030"  0.76mm  (2 holes)
-T3  0.032"  0.81mm  (111 holes)
-T4  0.040"  1.02mm  (90 holes)
+T3  0.032"  0.81mm  (115 holes)
+T4  0.040"  1.02mm  (96 holes)
 T5  0.130"  3.30mm  (4 holes)
 
-total holes count 240
+total holes count 256
 
 

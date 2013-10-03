@@ -1,4 +1,4 @@
-update=Sun 15 Sep 2013 11:08:22 AM EDT
+update=Mon 23 Sep 2013 09:33:54 PM EDT
 version=1
 last_client=pcbnew
 [general]
@@ -95,7 +95,7 @@ TxtLar=120
 MSegLar=150
 LastNetListRead=Propcape.net
 [pcbnew/libraries]
-LibDir=
+LibDir=../../Desktop/Hardware/Cape
 LibName1=PBBB
 LibName2=sockets
 LibName3=connect
@@ -108,3 +108,4 @@ LibName9=valves
 LibName10=led
 LibName11=dip_sockets
 LibName12=SIL-20
+LibName13=smt64

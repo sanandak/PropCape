@@ -1,0 +1,41 @@
+eeschema (2011-05-25)-stable  >> Creation date: Wed 25 Sep 2013 10:05:07 AM EDT
+
+#Cmp ( order = Reference )
+| D1         LED         
+| P1         CONN_4      
+| P2         CONN_20     
+| P3         CONN_20     
+| P4         CONN_6      
+| P8         BBB_P8      
+| P9         BBB_P9      
+| R1         10K         
+| R2         240         
+| R3         R           
+| R4         R           
+| U1         P8X32A      
+| U2         24C512      
+| U3         LSM303      
+| U4         TMP36       
+| X1         CRYSTAL     
+#End Cmp
+
+#Cmp ( order = Value )
+| 10K          R1        
+| 240          R2        
+| 24C512       U2        
+| BBB_P8       P8        
+| BBB_P9       P9        
+| CONN_20      P2        
+| CONN_20      P3        
+| CONN_4       P1        
+| CONN_6       P4        
+| CRYSTAL      X1        
+| LED          D1        
+| LSM303       U3        
+| P8X32A       U1        
+| R            R3        
+| R            R4        
+| TMP36        U4        
+#End Cmp
+
+#End List
